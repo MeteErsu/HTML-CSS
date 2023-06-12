@@ -1,0 +1,9 @@
+p {
+    font-size: 30px;
+    color: brown;
+    background-color: aqua;
+}
+div{
+border: 10px solid brown;
+width: 20%;
+}
